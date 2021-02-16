@@ -1,25 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Deep Learning | Anurag Dutt</title>
-    <link>https://anuragdutt.github.io/tag/deep-learning/</link>
-      <atom:link href="https://anuragdutt.github.io/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
-    <description>Deep Learning</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 27 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <title>Reinforcement Learning | Anurag Dutt</title>
+    <link>https://anuragdutt.github.io/tag/reinforcement-learning/</link>
+      <atom:link href="https://anuragdutt.github.io/tag/reinforcement-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Reinforcement Learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 18 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://anuragdutt.github.io/media/avatar.jpg</url>
-      <title>Deep Learning</title>
-      <link>https://anuragdutt.github.io/tag/deep-learning/</link>
+      <title>Reinforcement Learning</title>
+      <link>https://anuragdutt.github.io/tag/reinforcement-learning/</link>
     </image>
-    
-    <item>
-      <title>Comparison of Adverserial techniques for synthesizing electronic health records - Data Management and Biomedical DataAnalytics Lab, SBU</title>
-      <link>https://anuragdutt.github.io/project/gan_comp/</link>
-      <pubDate>Sun, 27 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://anuragdutt.github.io/project/gan_comp/</guid>
-      <description>&lt;p&gt;This project was undertaken as a part of our paper &amp;ldquo;SMOOTH-GAN: Towards Sharpand Smooth Synthetic EHR DataGeneration&amp;rdquo; to compare the performance of SmoothGAN architecture for generation of Electronic Health Records. We compare the performance of our architecture with other discrete distribution architectures such as MedGAN, WGAN, WGAN-GP, AC-GAN and cGAN.&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Multi-Agent Generative Adversarial Self-Imitation Learning (Graduate project)</title>
