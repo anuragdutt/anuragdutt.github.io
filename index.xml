@@ -172,6 +172,61 @@ that the GASIL outperforms the basline DDPG model.s&lt;/p&gt;
     </item>
     
     <item>
+      <title>Using Natural Language Processing and Deep Learning Techniques on 8-k reports for stock price movement prediction - Language Understanding and Reasoning Lab, SBU</title>
+      <link>https://anuragdutt.github.io/project/spred_nlp/</link>
+      <pubDate>Fri, 27 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://anuragdutt.github.io/project/spred_nlp/</guid>
+      <description>&lt;p&gt;In this work we test if financial reports can be utilized to research the significance of text analysis for stock price prediction.  Our corpus adjustsportrayals of money related occasions announcedin 8-K records with the relating stock costs, whichencourages  the  improvement  of  stock  price  esti-mation frameworks which joins textual and finan-cial  data.   Utilizing  the  corpus,  we  demonstratethat  using  textual  data  has  a  significant  impactespecially  for  short-term  periods.(the  two  dayspromptly  following  the  occasion). We see that on applying our Bi-LSTM based dependency parser over then RNN-CNN framework, there is improovement to some extent in the performanceof the model as compared to only the CNN or the RNN based model. We believe that this is so because CNN’s pooling activity on nearby words can hold the neighborhood highlights and their consecutive relations  in  a  sentence and,  the RNN  can  learn the  long-term  dependencies  and  the  positional relation of features as well as the global features of the whole sentence.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Stock market trading in the aftermath of an accounting scandal</title>
+      <link>https://anuragdutt.github.io/publication/satyam/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://anuragdutt.github.io/publication/satyam/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>From Participation To Repurchase: Low Income Households And Micro‐insurance</title>
+      <link>https://anuragdutt.github.io/publication/microinsurance/</link>
+      <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://anuragdutt.github.io/publication/microinsurance/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Slides</title>
       <link>https://anuragdutt.github.io/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
