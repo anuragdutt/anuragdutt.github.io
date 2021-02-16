@@ -21,5 +21,23 @@
 </description>
     </item>
     
+    <item>
+      <title>Dropout - A Simple Way to Prevent GANs from Overfitting (Graduate Project - Columbia)</title>
+      <link>https://anuragdutt.github.io/project/dropoutgan/</link>
+      <pubDate>Fri, 21 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://anuragdutt.github.io/project/dropoutgan/</guid>
+      <description>&lt;p&gt;Overfitting is a serious problem when using deep neural networks with a large
+number of parameters. Large networks also take more time to train and test, making it less
+practical in the real world. To address this problem, Dropout is widely employed. By randomly
+removing units and its connections from the network, the technique significantly reduces co-
+adapting effects during training. In our report, we mainly investigate this technique using three
+datasets, MNIST, CIFAR10, and CIFAR100, and compare the result with related papers. The
+result suggests that Dropout leads to an increase of accuracy making predictions. Batch
+Normalization is another powerful technique in deep learning. However, combining Dropout and
+Batch Normalization together often result in a worse performance. We explore different
+strategies dealing with this problem. At the end, we further apply these strategies to multi-adversarial GANs.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
